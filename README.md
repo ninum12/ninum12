@@ -20,4 +20,4 @@
 <br/>
 
 ## Experiences
-- 2024 숙명여대 X 국민대 연합 해커톤 제 3회 코코톤 대상 [GitHub](https://github.com/KokotonTeam6)
+- 2024.09 숙명여대 X 국민대 연합 해커톤 제 3회 코코톤 대상 [GitHub](https://github.com/KokotonTeam6)
