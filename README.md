@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff"/>
 </div>
 
